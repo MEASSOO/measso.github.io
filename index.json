@@ -1,11 +1,1 @@
-{
-  "USER1":[{
-  "url":"https://download.quranicaudio.com/quran/maher_256/001.mp3",
-  "Name":"Measso"}
-  ],
-  "USER2":[{
-  "url":"https://download.quranicaudio.com/quran/maher_256/001.mp3",
-  "Name":"MEGA"}
-    ]
-}
-
+{ "url":"https://download.quranicaudio.com/quran/maher_256/001.mp3","name":"Measso"}
